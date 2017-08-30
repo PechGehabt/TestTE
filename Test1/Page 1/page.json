@@ -47,6 +47,10 @@
     {
       "class": "bitmap",
       "id": "EE16DD3C-3361-4267-AE0F-EDF01C0C931E"
+    },
+    {
+      "class": "text",
+      "id": "B6CA6F3C-4C1E-424B-BFA5-F7E9F194B1DF"
     }
   ],
   "name": "Page 1",
